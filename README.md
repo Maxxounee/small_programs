@@ -1,2 +1,2 @@
-# small_programms
-Small programs to practice writing code
+# small_programs
+Small programs for practicing python programming
