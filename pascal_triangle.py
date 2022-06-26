@@ -14,7 +14,7 @@ def triangle(y):
 def try_start():
     try:
         triangle(int(input('Введите количество строк: '))) 
-    except Exception as _ex:
+    except Exception:
         print('Введите число!') 
         try_start()
 
